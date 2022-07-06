@@ -170,6 +170,7 @@ form strong{
         padding: 4rem;
         align-items: center;
         justify-content: center;
+        background-size:cover;
     }
     aside{
         text-align: left;
